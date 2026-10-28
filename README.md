@@ -32,6 +32,7 @@ https://apaiksha-shrivastava.github.io/rock-paper-scissors/
 
 A web application designed to help students organize their study tasks.
 
+https://apaiksha-shrivastava.github.io/student-study-planner/
 
 
 
