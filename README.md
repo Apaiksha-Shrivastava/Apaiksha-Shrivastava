@@ -43,7 +43,7 @@ A web application designed to help students organize their study tasks.
 ##  Connect With Me
 
 * **GitHub:** [My GitHub Profile](PASTE_YOUR_GITHUB_PROFILE_LINK)
-* **LinkedIn:** [My LinkedIn Profile](PASTE_YOUR_LINKEDIN_PROFILE_LINK)
+* **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/apaiksha-shrivastava-928211390)
 
 
 
