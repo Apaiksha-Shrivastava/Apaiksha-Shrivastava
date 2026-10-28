@@ -20,7 +20,7 @@ I'm a BCA student passionate about software development and problem-solving. I'm
 ### 1. Tic-Tac-Toe Game
 
 An interactive two-player game built using HTML, CSS, and JavaScript.
-
+https://apaiksha-shrivastava.github.io/tic-tac-toe/
 ### 2. Rock Paper Scissors
 
 A browser-based game built using HTML, CSS, and JavaScript.
