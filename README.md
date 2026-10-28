@@ -4,7 +4,7 @@
 
 I'm a BCA student passionate about software development and problem-solving. I'm currently building my programming skills and working on projects to strengthen my technical knowledge.
 
-##  Technical Skills
+
 
 ## 💻 Technical Skills
 
