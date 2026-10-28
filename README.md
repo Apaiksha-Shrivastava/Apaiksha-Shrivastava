@@ -6,7 +6,7 @@ I'm a BCA student passionate about software development and problem-solving. I'm
 
 
 
-## 💻 Technical Skills
+## Technical Skills
 
 * **Programming Languages:** Java, C++
 * **Data Structures & Algorithms:** Learning DSA in Java
